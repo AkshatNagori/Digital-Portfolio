@@ -347,6 +347,7 @@ html {
 .projects-wrapper {
   width: 80%;
   flex-wrap: wrap;
+  
 }
 
 .project {
@@ -360,6 +361,8 @@ html {
   position: relative;
   overflow: hidden;
   transition: box-shadow 0.5s;
+  margin-bottom: 40px; /* Adjust the value as needed */
+  margin-left: 40px;
 }
 
 .project:hover {
@@ -396,7 +399,7 @@ html {
   width: 40rem;
 
   transition: opacity 0.3s;
-  height: 20rem;
+  height: 25rem;
 }
 
 .project:hover .project-img {

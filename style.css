@@ -64,6 +64,7 @@ html {
   border-bottom: 0.3rem solid #fff;
   text-shadow: 0.2rem 0.2rem 1rem #555;
   transform: skew(-10deg);
+  text-align: center;
 }
 
 .person-img {
